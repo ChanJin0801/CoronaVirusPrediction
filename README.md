@@ -1,5 +1,5 @@
 # CoronaVirusPrediction
-analyzes the circumstances in S.Korea by multiple factor and simply predicts the number of confirmed in a next few days.
+analyzes the circumstance in S.Korea by multiple factors and simply predicts the number of confirmed the next a few days.
 
 ## Dataset
 https://www.kaggle.com/kimjihoo/coronavirusdataset
